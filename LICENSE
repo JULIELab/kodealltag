@@ -1,0 +1,19 @@
+This code uses Treetagger by Helmut Schmid.
+
+Treetagger has a proprietary license. 
+The full license text can be found in the subdirectory kodealltag/src/main/resources/TreeTagger in the LICENSE file.
+
+Most important aspects are stated in the first paragraph of the license:
+"
+...
+                  ************************
+                  ** TreeTagger License **
+                  ************************
+
+1. The Institut fuer maschinelle Sprachverarbeitung, Universitaet
+   Stuttgart, subsequently called ``the licenser'', grants you (the
+   licensee) the rights to use the TreeTagger software subsequently
+   called ``the system'' for evaluation, research and teaching
+   purposes. Usage of the system for commercial purposes is forbidden.
+...   
+"
